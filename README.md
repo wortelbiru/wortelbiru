@@ -22,6 +22,13 @@ wortelbiru: systems, network automation, EVM protocol tooling
 
 ---
 
+#### Featured Projects
+
+- **[hermes-dream-mode](https://github.com/wortelbiru/hermes-dream-mode)**  
+  Autonomous nightly self-reflection and continuous learning pipeline for Hermes Agent. Reviews daily sessions, audits skill health via Curator, and extracts durable insights.
+
+---
+
 #### Engineering Stack
 
 | Domain | Technologies & Tooling |
